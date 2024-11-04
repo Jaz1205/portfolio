@@ -32,7 +32,7 @@ twitter_username: None
 github_username:  Jaz1205
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
