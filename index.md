@@ -3,8 +3,11 @@ layout: default
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+# Welcome to this sample portfolio!
 
+Thank you for vising my site. Browse and look at all the content I created via a GitHub Repository.
+
+[sample text](http://fillerama.io/)
 
 #### Here are some example pages:
 
